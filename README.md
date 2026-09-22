@@ -1,5 +1,6 @@
 # Car_price_predictor
 Web application with machine learning model built using Python for used car's resale value based on car attributes. Developed with Streamlit & A Trained Regression Model ( Loaded as joblib ) Having the R Score Around 86% Accuracy.
+
 Features:
 -Recives Input for the User:Brand, Current Price of the Car, Car Age in Years, No. of KMS driven, Fuel Type, Transmission type, Type of Seller (dealership or private), Previous owners number.
 -To optimize prediction, engineers select features such as Price per Age and Price per Km.
